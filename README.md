@@ -20,4 +20,5 @@ This code depends on [MathQuill](http://docs.mathquill.com/en/latest/Getting_Sta
 
 Functions yet to be implemented are noted here:
 
--
+- Ability to save your work and any pictures within the text.
+- Optimization
